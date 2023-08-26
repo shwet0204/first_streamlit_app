@@ -8,4 +8,4 @@ pyarrow<8.1.0,>=8.0.0
 
 streamlit >= 1.9.2
 
-exec(code, module.__dict__)
+
