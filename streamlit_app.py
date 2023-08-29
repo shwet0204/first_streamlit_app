@@ -53,7 +53,7 @@ except URLError as e:
 
 
 # do not run anything past this function while troubleshooting
-streamlit.stop()
+#streamlit.stop()
 
 
 
